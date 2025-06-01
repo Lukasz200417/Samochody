@@ -58,10 +58,10 @@ const gallery = [
     caption: "Od początku stawiamy na jakość, niezawodność i przyjazną obsługę klienta."
   },
     {
-    src: "images/Wyp4.png",
+    src: "images/wyp4.png",
     caption: "W naszej flocie znajduje się ponad 100 pojazdów różnych klas i marek od ekonomicznych po luksusowe.."
   },  {
-    src: "images/Wyp5.png",
+    src: "images/wyp5.png",
     caption: "Dbamy o regularny serwis i czystość każdego samochodu. Nasi stali klienci mogą liczyć na atrakcyjne rabaty i indywidualne podejście. Zaufaj nam Twoja podróż zaczyna się właśnie tutaj."
   }
   
